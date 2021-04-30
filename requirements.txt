@@ -14,4 +14,4 @@ plac==1.1.0
 proglog==0.1.9
 requests==2.22.0
 tqdm==4.36.1
-urllib3==1.25.6
+urllib3==1.25.8
