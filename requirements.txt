@@ -7,7 +7,7 @@ imageio-ffmpeg==0.3.0
 lightnet==0.0.13
 moviepy==1.0.0
 msgpack-python==0.5.6
-numpy==1.17.2
+numpy==1.22.0
 pathlib==1.0.1
 Pillow==6.1.0
 plac==1.1.0
